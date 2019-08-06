@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2019-08-16
-author: Jekyll
-color: rgb(255,210,32)
-cover: '/assets/sunrise.jpeg'
+title: Hello Jekyll
+description: 搭建博客一点事
 tags: jekyll
+
 ---
 	经过一下午的折腾...总算是把博客折腾好了...
    记录一下几个教训：
