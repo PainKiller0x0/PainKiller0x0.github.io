@@ -1,7 +1,9 @@
 ---
-published: false
+published: true
 ---
-经过一下午的折腾...总算是把博客折腾好了...
+
+![sunrise.jpg]({{site.baseurl}}/_posts/sunrise.jpg)
+经过持续不断的折腾...总算是把博客折腾好了...
 
    记录一下几个教训：
    1.服务器很重要，所有数据都在上面，一旦过期就gg
@@ -10,3 +12,4 @@ published: false
    4.github的404不可怕，因为整啥都没用，该好的时候就会好...
    5.git工具真的是会用就行
    6.懂一点代码很重要，懂英语更重要...
+   7.prose.io是个挺好的在线markdown编辑网站...就是费眼睛...要自己手动点发布
