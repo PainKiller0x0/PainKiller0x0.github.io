@@ -20,7 +20,7 @@ webtitle: '月落星陨之地'
 bio: 'Never surrender'
 about: true
 aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/head.jpg' # your portraits image file path
 
 # SNS
 SNS: true
