@@ -1,11 +1,4 @@
 ---
-layout: post
-title: 'Hello'
-date: 2019-08-16
-author: Painkiller
-color: rgb(255,210,32)
-tags: mass
----
 published: false
 ---
 	经过一下午的折腾...总算是把博客折腾好了...
