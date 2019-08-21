@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tag: study
 ---
 ## 费曼学习法
