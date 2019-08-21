@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 假设检验中的显著性水平
 tag: study
 ---
@@ -7,5 +7,3 @@ tag: study
 占位待编辑
 https://blog.csdn.net/shenxiaoming77/article/details/51452012
 https://www.zhihu.com/question/31615254
-
-
