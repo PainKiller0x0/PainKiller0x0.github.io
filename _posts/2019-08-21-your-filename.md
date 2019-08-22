@@ -10,7 +10,7 @@ tag: study
    
    假设A和B是互斥事件，即A发生了，那B必然不会发生
    
-   然后，X
+   然后，找到一个小概率事件X，X包含在A里面，那X的概率就为P（X）
    
    接着（关键！）设定一个显著性水平α，α一般为5%（0.05）或1%（0.01）
    
@@ -37,8 +37,8 @@ tag: study
 
 参考文献： 
 	
-   https://blog.csdn.net/shenxiaoming77/article/details/51452012
+   <a href="https://blog.csdn.net/shenxiaoming77/article/details/51452012" target="_blank"></a>
    
-   https://www.zhihu.com/question/31615254
+   (https://www.zhihu.com/question/31615254)
    
-   https://www.jianshu.com/p/aca87a78e134
+   (https://www.jianshu.com/p/aca87a78e134)
