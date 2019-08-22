@@ -39,6 +39,6 @@ tag: study
 	
    <a href="https://blog.csdn.net/shenxiaoming77/article/details/51452012" target="_blank">https://blog.csdn.net/shenxiaoming77/article/details/51452012</a>
    
-   (https://www.zhihu.com/question/31615254)
+   https://www.zhihu.com/question/31615254
    
-   (https://www.jianshu.com/p/aca87a78e134)
+   https://www.jianshu.com/p/aca87a78e134
