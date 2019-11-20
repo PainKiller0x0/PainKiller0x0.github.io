@@ -1,6 +1,6 @@
 ---
 published: true
-tags: study
+tags: study Python
 ---
 ## 记Python中Set（集合）的pop方法
 
