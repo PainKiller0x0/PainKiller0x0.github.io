@@ -1,5 +1,6 @@
 ---
 published: true
+tags: study
 ---
 ## 记Python中Set（集合）的pop方法
 
