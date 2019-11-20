@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## 记Python中Set（集合）的pop方法
 
